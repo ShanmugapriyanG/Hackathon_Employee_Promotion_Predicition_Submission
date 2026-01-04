@@ -1,0 +1,7 @@
+1. GCP Streamlit Link --> https://employee-promotion-prediction-streamlit-165135154152.us-east1.run.app/
+
+2. GCP FastAPI Link --> https://employee-promotion-prediction-fastapi-165135154152.us-east1.run.app
+
+3. GitHub Streamlit Link --> https://github.com/ShanmugapriyanG/Employee_Promotion_Prediction_Streamlit
+
+4. GitHub FastAPI Link --> https://github.com/ShanmugapriyanG/Employee_Promotion_Prediction_FastAPI/tree/main
